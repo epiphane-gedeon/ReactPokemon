@@ -1,0 +1,4 @@
+# Pokémon Explorer Assets
+
+This directory is reserved for static image assets.
+Pokémon images are loaded directly from PokéAPI's sprite CDN.
